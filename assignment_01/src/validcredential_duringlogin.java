@@ -1,3 +1,5 @@
+//Write a program to check if the provided user credentials are valid during login
+
 import java.util.Scanner;
 
 public class validcredential_duringlogin {

@@ -1,3 +1,5 @@
+//Write a program to check balance and withdraw money from ATM booth using if else and switch case
+
 import java.util.Scanner;
 public class atm_booth {
     public static void main(String[] args) {

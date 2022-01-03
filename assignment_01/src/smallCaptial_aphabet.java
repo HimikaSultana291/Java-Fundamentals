@@ -1,3 +1,5 @@
+//Write a program to check if inputted letter is small or capital
+
 import java.util.Scanner;
 
 public class smallCaptial_aphabet {

@@ -1,3 +1,5 @@
+//Write a program to sum of random numbers
+
 import java.util.Random;
 import java.util.Scanner;
 

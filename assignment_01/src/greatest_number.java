@@ -1,3 +1,5 @@
+//Take three numbers from the user and print the greatest number
+
 import java.util.Scanner;
 public class greatest_number {
     public static void main(String[] args) {
