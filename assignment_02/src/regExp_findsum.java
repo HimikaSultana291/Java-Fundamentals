@@ -1,4 +1,4 @@
-//1 piece sharee 3500 tk, 2 piece shirt 2000 tk and 1 piece pant 750 tk. Find total price and total quantity using re
+//1 piece sharee 3500 tk, 2 piece shirt 2000 tk and 1 piece pant 750 tk. Find total price and total quantity using regular expression
 
 public class regExp_findsum {
     public static void main(String[] args) {
